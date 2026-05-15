@@ -1,7 +1,8 @@
 # Effect-of-Florida-pill-mill-policy-on-opioids-prescriptions-and-overdose-mortality
-The aim of this project is to evaluate the effectiveness of Florida's pill mill policy in reducing state level opioids drug prescriptions and overdose mortality rates with a difference in differences analysis.
+## Project Overview
 
-The repository contains:
+This project examines the impact of Florida’s pill mill policy on opioid prescription rates and overdose mortality at the state level using a difference-in-differences (DiD) approach.
 
-Two Jupyter notebooks with the data analysis and modeling
-A policy write-up summarizing the methodology, results, and key findings
+### Included in this Repository
+- Jupyter notebooks containing data cleaning, analysis, and statistical modeling
+- A policy report outlining the research methodology, empirical results, and key conclusions
